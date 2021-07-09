@@ -5,7 +5,7 @@ This project will show you how to build a custom styled Google map using the Goo
 Check out the [full project](https://www.codementor.io/projects/build-a-custom-google-maps-theme-bf8levr6eg) on DevProjects by Codementor.
 This is my take on this DevProjects prompt by Jessica Chan.
 
-# My Map Screen =) 
+# My Map Screen => 
 
 ![alt text](https://github.com/AbhiramiTS/super-mario-world-map/blob/main/super_mario_world.png)
 
