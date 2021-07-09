@@ -19,12 +19,12 @@ The places that need updating are:
 * Add the API_KEY and MAP_ID in the `<script>` tag for the Maps API in the `index.html` file
 * Add in the MAP_ID in the `script.js` file
 
-# Requirements
+## Requirements
 * Display a Google Map on your website with a custom color theme
 * Center the map at a particular latitude/longitude
 * Use custom markers around the map
 
-# Implementation
+## Implementation
 * Create a Google Cloud Platform project
 * Style your map in Google Map Management
 * Use the map ID and API key to load the map on your website with the Google Maps JavaScript API
